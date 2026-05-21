@@ -3,7 +3,7 @@
 Hệ thống quản lý bán hàng được xây dựng với Next.js và Firebase, hỗ trợ quản lý sản phẩm, khách hàng và đơn hàng theo thời gian thực.
 
 ## 🔗 Demo
-👉 [https://sale-management-lyart.vercel.app](https://sale-management-lyart.vercel.app)
+👉 https://sale-management-kzv6.vercel.app/login
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js 15, TypeScript, Tailwind CSS
@@ -20,8 +20,10 @@ Hệ thống quản lý bán hàng được xây dựng với Next.js và Fireba
 - ⚡ Dữ liệu đồng bộ realtime với Firestore
 
 ## 📸 Screenshots
-![Dashboard](./screenshots/dashboard.png)
-![Products](./screenshots/products.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b717101-cd42-424d-a449-6a9c7a747b9a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df4770e6-ac86-4e8b-947e-784da34c0016" />
+
 
 ## 🚀 Cài đặt & Chạy local
 
